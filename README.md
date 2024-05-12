@@ -2,4 +2,4 @@
 
 Фiнальне домашнє завдання курсу.
 
-Link - https://darinakhalina.github.io/goit-js-hw-08/
+Demo link - https://darinakhalina.github.io/goit-js-hw-08/
